@@ -1,0 +1,14 @@
+name:Avica Avica provides the ability to synchronize clipboards between local and remote endpoints, which can apply to texts and files.
+
+This feature is offered through all major platforms' "copy & paste" functions. There are currently two supported methods of doing so using Avica:
+
+Using hotkeys - For example:
+
+Selecting one or more files on the remote endpoint,
+using the shortcut CTRL+C to copy the files,
+opening a folder on the local endpoint,
+using the shortcut CTRL+V to transfer the files to the local endpoint
+Using the context menu - For example:
+
+Selecting one or more files on the local endpoint,
+right-clicking the selected files and selecting "Copy" to copy the files,
